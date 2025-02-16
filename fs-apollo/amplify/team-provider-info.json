@@ -15,7 +15,7 @@
       "function": {
         "apolloserver": {
           "deploymentBucketName": "amplify-fsapollo-dev-24d8a-deployment",
-          "s3Key": "amplify-builds/apolloserver-7456374b4f2f636a4167-build.zip"
+          "s3Key": "amplify-builds/apolloserver-4d31584f6d4c63416651-build.zip"
         }
       },
       "api": {

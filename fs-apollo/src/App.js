@@ -9,7 +9,8 @@ console.log({ endpoint });
 // Query definition
 const query = gql`
   query {
-    hello
+    hello,
+    hello2
   }
 `;
 
@@ -26,7 +27,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>{data.hello}</h1>
+        <h1>hello: {data.hello}</h1>
+        <h1>hello 2: {data.hello2}</h1>
       </header>
     </div>
   );
