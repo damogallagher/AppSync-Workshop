@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fsapollo-dev-24d8a-authRole",
+      "UnauthRoleArn": "arn:aws:iam::339712946072:role/amplify-fsapollo-dev-24d8a-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::339712946072:role/amplify-fsapollo-dev-24d8a-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-fsapollo-dev-24d8a-deployment",
+      "UnauthRoleName": "amplify-fsapollo-dev-24d8a-unauthRole",
+      "StackName": "amplify-fsapollo-dev-24d8a",
+      "StackId": "arn:aws:cloudformation:us-east-1:339712946072:stack/amplify-fsapollo-dev-24d8a/aeb8ad00-ecbc-11ef-a5d6-1243dc88ed3b",
+      "AmplifyAppId": "d2ip9kfdp2j3b2"
+    },
+    "categories": {
+      "function": {
+        "apolloserver": {
+          "deploymentBucketName": "amplify-fsapollo-dev-24d8a-deployment",
+          "s3Key": "amplify-builds/apolloserver-7456374b4f2f636a4167-build.zip"
+        }
+      },
+      "api": {
+        "apolloapi": {}
+      }
+    }
+  }
+}

@@ -1,1 +1,0 @@
-## AnyCompany Reads frontend application
